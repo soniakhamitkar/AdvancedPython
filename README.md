@@ -22,6 +22,3 @@ This repository contains a collection of **data analysis and machine learning pr
   - Conducts **NLP-based sentiment analysis** on New York Times articles related to mental health.  
   - Implements `NLTK`, `VADER`, and `TextBlob` to evaluate public sentiment.  
 
-- **Trump vs. Harris Sentiment Analysis** (`TrumpHarris Sentiment Analysis.ipynb`)  
-  - Compares public opinion on Donald Trump and Kamala Harris using **10,000 tweets**.  
-  - Uses **transformer-based models** like `BERT` and `Flair` alongside traditional **VADER sentiment scoring**.  
