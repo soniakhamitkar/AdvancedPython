@@ -22,3 +22,8 @@ This repository contains a collection of **data analysis and machine learning pr
   - Conducts **NLP-based sentiment analysis** on New York Times articles related to mental health.  
   - Implements `NLTK`, `VADER`, and `TextBlob` to evaluate public sentiment.  
 
+### 📌 AI & Sports Analytics  
+- **Dive Video Scoring System** (`SwimDiveVideoScore.ipynb` + `app.py`)  
+  - Applies **pose estimation and video frame analysis** to assess the quality of dives in swimming competitions.  
+  - Combines `MediaPipe`, `OpenCV`, and `Streamlit` to extract body keypoints, calculate angles, and score each dive.  
+  - Includes a **web-based interface** built with `Streamlit` for real-time upload and scoring of dive videos.
